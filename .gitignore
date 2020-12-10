@@ -1,3 +1,9 @@
 #Image Files
 *.jpg
 *.png
+
+#Movie Files
+*.mov
+*.mov.tmp
+*.avi
+*.mp4
